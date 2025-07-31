@@ -1,4 +1,7 @@
 # devops-intro--Daniel-Esteban-Lozano-Cuervo-
+
+git 
+=======
 DevOps es una metodología que busca unir los equipos de desarrollo y operaciones (Dev y Ops) para mejorar la 
 colaboración y la eficiencia en el ciclo de vida de las aplicaciones. Su objetivo principal es lograr entregas más 
 rápidas, productos más confiables y una mayor satisfacción del cliente a través de la automatización, la 
@@ -40,3 +43,4 @@ Mayor seguridad:
 
 Al integrar la seguridad en todo el ciclo de vida del desarrollo, DevOps ayuda a identificar y solucionar 
 vulnerabilidades de manera temprana, lo que resulta en aplicaciones más seguras. 
+
